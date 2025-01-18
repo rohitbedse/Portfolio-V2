@@ -7,7 +7,7 @@
   export let theme;
 
   $: welcomeMessage =
-    theme === "dark" ? 'console.log("Hey!👋")' : 'console.log("Hi!🙋‍♂️")';
+    theme === "dark" ? 'print("Hey I am Rohit😎")' : 'print("Hi I am Rohit😎")';
 </script>
 
 <section
@@ -46,7 +46,7 @@
         <TextReveal
           delay={1000}
           once
-          text="I build and design industry standard web experiences. Welcome to my website."
+          text="Building innovative solutions with Python, Machine Learning, and Data Science, turning ideas into reality.."
         />
       </p>
 

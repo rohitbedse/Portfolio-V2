@@ -49,10 +49,10 @@
     <p
       class="logo-type text-white dark:text-gray-900 text-3xl font-black absolute bottom-0"
     >
-      B
+      R
     </p>
   </a>
-  <a href="/#home" data-aos="flip-up" class="nav-text-home">Ng Bob Shoaun</a>
+  <a href="/#home" data-aos="flip-up" class="nav-text-home">Rohit Bedse</a>
 
   <div use:links class="hidden lg:flex gap-9 items-center ml-auto">
     <Router>
@@ -70,7 +70,7 @@
         data-aos-delay="200"
         data-aos-duration="700"
         class="nav-text"
-        noroute>Experience</a
+        noroute>Education</a
       >
       <a
         href="/#web-development"
@@ -78,7 +78,7 @@
         data-aos-delay="300"
         data-aos-duration="700"
         class="nav-text"
-        noroute>Web dev</a
+        noroute>Projects</a
       >
 
       <a
@@ -87,7 +87,7 @@
         data-aos-delay="400"
         data-aos-duration="700"
         class="nav-text"
-        noroute>Game dev</a
+        noroute>Skills</a
       >
       <a
         href="/#graphic-design"
@@ -95,7 +95,7 @@
         data-aos-delay="500"
         data-aos-duration="700"
         class="nav-text"
-        noroute>Design</a
+        noroute>Blog</a
       >
       <a
         href="/#contact"
@@ -174,7 +174,7 @@
         data-aos="slide-right"
         data-aos-delay="200"
         class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#experience">Experience</a
+        href="/#experience">Education</a
       >
       <a
         on:click={() => (open = false)}
@@ -183,7 +183,7 @@
         class="block bg-gray-50 dark:bg-gray-800 p-5"
         href="/#web-development"
       >
-        Web Development
+        Projects
       </a>
 
       <a
@@ -193,7 +193,7 @@
         class="block bg-gray-50 dark:bg-gray-800 p-5"
         href="/#game-development"
       >
-        Game Development
+        Skills
       </a>
 
       <a
@@ -203,7 +203,7 @@
         class="block bg-gray-50 dark:bg-gray-800 p-5"
         href="/#graphic-design"
       >
-        Graphic Design
+        Blog
       </a>
       <a
         on:click={() => (open = false)}

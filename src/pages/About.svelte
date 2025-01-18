@@ -33,7 +33,7 @@
             data-aos="slide-right"
             data-aos-duration="500"
             data-aos-delay="200"
-            src="/images/me.webp"
+            src="/images/r2.jpg"
             alt="A guy (me) posing with a an Amazon t-shirt with the Columbia Icefield in the background."
           />
         </div>
@@ -54,19 +54,22 @@
           class="text-gray-600 dark:text-gray-300 lg:text-lg space-y-5"
         >
           <p class="first-letter:text-4xl first-letter:font-bold">
-            What's up? I’m Bob, a software developer with expertise in web
-            development. Currently, I am a Computer Science specialist at
-            University of Toronto.
+            Hi I'm Rohit Santosh Bedse I'm a third-year Computer Science
+            Engineering student, fueled by a passion for technology and
+            innovation. 🚀 My journey is driven by a constant eagerness to learn
+            and apply cutting-edge skills in the ever-evolving world of computer
+            science
           </p>
           <p class="indent-4">
-            The passion to create and innovate has always been in me. I strive
-            to build quality, clean, intuitive, and robust software with
-            attention and deliberation.
+            The passion to explore and uncover insights has always been in me. I
+            strive to analyze data, build accurate, scalable, and impactful
+            models, and derive meaningful conclusions with precision and
+            thoughtfulness.
           </p>
           <p class="indent-4">
-            My expertise include JavaScript, CSS, and the MERN stack. Recently I
-            have been intrigue with blockchain tech and Web3. Aside from coding,
-            I enjoy playing table tennis, video games, and the drums.
+            I'm open to Job opportunities where I can contribute, learn and
+            grow. If you have a good opportunity that matches my skills and
+            experience then don't hesitate to contact me.
           </p>
         </div>
         <!-- <Link
